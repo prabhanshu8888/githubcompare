@@ -1,10 +1,10 @@
-worked on github API to get json data and used jsonview extension to get data.
-
+To create an app first I used to Github API to get JSON data and used use context hooks.
 created component Dashboard and rendered it on app.js.
 
+in the dashboard component created navbar, search, user, followers component, and rendered in the dashboard component.
 
-in dashboard component created navbar,search,user, followers component and rendered in dashboard component.
+I used various react hooks like use State and use Effect.
 
-used different dependencies like react-router-dom and styled icons.
+I used different dependencies like react-router-dom and styled icons.
 
 hosted the app on herkou.
